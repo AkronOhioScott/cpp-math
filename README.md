@@ -1,2 +1,2 @@
 # cpp-math
-A program in C++ that solves that quadratic formula that I also made for school
+A program in C++ that solves the quadratic formula that I also made for school
