@@ -1,7 +1,8 @@
 #include <iostream>
 #include <cmath>
 
-int main() {
+int main()
+{
   double a, b, c;
   std::cout << "Enter a: ";
   std::cin >> a;
